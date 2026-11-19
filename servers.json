@@ -1,0 +1,10 @@
+[
+    {
+      "ip": "94.23.168.153",
+      "port": 2370,
+      "x2": false,
+      "name": "Red",
+      "online": 51,
+      "maxonline": 500
+    }
+ ]
